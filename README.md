@@ -63,9 +63,9 @@ Soon
 
 Leo Ramos - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - leo.ramos@kauel.com
 
-Edmundo Casas - [LinkedIn](https://www.linkedin.com/in/edmundocasas) - edmundo.casas@kauel.com
-
 Francklin Rivas-Echeverría - [LinkedIn](https://www.linkedin.com/in/francklin-rivas-echeverria-514180144/) - francklin.rivas@kauel.com
+
+Edmundo Casas - [LinkedIn](https://www.linkedin.com/in/edmundocasas) - edmundo.casas@kauel.com
 
 <br>
 <br>
