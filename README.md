@@ -7,7 +7,7 @@ This research presents the K-Pipelines dataset, a pioneering synthetic image col
 
 ### Paper
 
-Soon
+Published at [Intelligent Systems with Applications, Elsevier](https://www.sciencedirect.com/science/article/pii/S2667305324001376)
 
 <!-- GETTING STARTED -->
 ## Installation
@@ -56,7 +56,14 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 <!-- CITAITON -->
 ## Citation
 
-Soon
+    @article{RAMOS2025200463,
+    title = {Synthetic generated data for intelligent corrosion classification in oil and gas pipelines},
+    journal = {Intelligent Systems with Applications},
+    volume = {25},
+    pages = {200463},
+    year = {2025},
+    doi = {https://doi.org/10.1016/j.iswa.2024.200463},
+    author = {Leo Thomas Ramos and Edmundo Casas and Francklin Rivas-Echeverría}}
 
 <!-- CONTACT -->
 ## Contact
